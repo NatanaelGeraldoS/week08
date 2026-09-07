@@ -13,6 +13,7 @@ aks_dns_prefix   = "kaoala-week08"
 
 aks_node_count   = 3
 aks_node_vm_size = "Standard_B2s_v2"
+
 environment = "development"
 
 tags = {
